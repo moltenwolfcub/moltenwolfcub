@@ -3,7 +3,7 @@ I’m interested in:
 
 Programming:
 - Python
-- a bit of Java
+- Java
 
 And minecraft editing:
 - mods
