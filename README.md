@@ -14,6 +14,22 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=craftia_datapack&theme=algolia)](https://github.com/moltenwolfcub/craftia_datapack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=craftia_resourcepack&theme=algolia)](https://github.com/moltenwolfcub/craftia_resourcepack)
 
+## Release news:
 
+### Newest release: [Crafted Cuisine 1.0.0 for minecraft 1.18.2](https://github.com/moltenwolfcub/crafted_cuisine/releases/tag/v1.0.0-1.18.2)
+
+### Other Releases:
+
+[Crafted Cuisine](https://github.com/moltenwolfcub/crafted_cuisine/releases/tag/v1.0.0-1.18.2)
+
+[Craftia Datapck](https://github.com/moltenwolfcub/craftia_datapack/releases/tag/v1.3.1)
+
+[Advancment Speedup Datapack](https://github.com/moltenwolfcub/speed-up-datapack/releases/tag/v1.0.3)
+
+[Glowing Glow Berries](https://github.com/moltenwolfcub/glowing_berries/releases/tag/v1.0.0)
+
+[Dye Bottle Resource Pack](https://github.com/moltenwolfcub/dye_bottles_resourcepack/releases/tag/v1.17.1)
+
+#  
 
 Cards sourced from [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
