@@ -11,8 +11,7 @@
 
 ## The Craftia Datapack:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=craftia_datapack&theme=algolia)](https://github.com/moltenwolfcub/craftia_datapack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=craftia_resourcepack&theme=algolia)](https://github.com/moltenwolfcub/craftia_resourcepack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=craftia&theme=algolia)](https://github.com/moltenwolfcub/craftia)
 
 ## Release news:
 
