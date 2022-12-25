@@ -7,11 +7,7 @@
 
 ## My Current Project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=crafted_cuisine&theme=algolia)](https://github.com/moltenwolfcub/crafted_cuisine)
-
-## The Craftia Datapack:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=craftia&theme=algolia)](https://github.com/moltenwolfcub/craftia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=aoc&theme=algolia)](https://github.com/moltenwolfcub/aoc)
 
 ## Release news:
 
