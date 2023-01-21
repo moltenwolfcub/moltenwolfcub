@@ -5,10 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moltenwolfcub&langs_count=10&layout=compact&theme=algolia)](https://github.com/moltenwolfcub)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=moltenwolfcub&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/moltenwolfcub)
 
-## My Current Project:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moltenwolfcub&repo=aoc&theme=algolia)](https://github.com/moltenwolfcub/aoc)
-
 ## Release news:
 
 ### Newest release: [Crafted Cuisine 1.0.1 for minecraft 1.18.2](https://github.com/moltenwolfcub/crafted_cuisine/releases/tag/v1.0.1-1.18.2)
