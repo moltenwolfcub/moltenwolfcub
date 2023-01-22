@@ -3,6 +3,7 @@
 ### I'm a programmer mainly focused on modding/editing Minecraft
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moltenwolfcub&langs_count=10&layout=compact&theme=algolia)](https://github.com/moltenwolfcub)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=moltenwolfcub&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/moltenwolfcub)
 
 ## Release news:
