@@ -8,7 +8,7 @@
 
 ## Release news:
 
-### Newest release: [Crafted Cuisine 1.0.1 for minecraft 1.18.2](https://github.com/moltenwolfcub/crafted_cuisine/releases/tag/v1.0.1-1.18.2)
+### Newest release: [Crafted Cuisine 1.0.1 for minecraft 1.19.3](https://github.com/moltenwolfcub/crafted_cuisine/releases/latest)
 
 ### Other Releases:
 
