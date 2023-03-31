@@ -2,9 +2,11 @@
 
 ### I'm a programmer mainly focused on modding/editing Minecraft
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moltenwolfcub&langs_count=10&layout=compact&theme=algolia)](https://github.com/moltenwolfcub)
+[![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=moltenwolfcub&langs_count=10&layout=compact&theme=algolia#gh-dark-mode-only)](https://github.com/moltenwolfcub#gh-dark-mode-only)
+[![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=moltenwolfcub&langs_count=10&layout=compact&theme=vue#gh-light-mode-only)](https://github.com/moltenwolfcub#gh-light-mode-only)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=moltenwolfcub&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/moltenwolfcub)
+[![GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=moltenwolfcub&show_icons=true&ring_color=ff8b33&theme=algolia#gh-dark-mode-only)](https://github.com/moltenwolfcub#gh-dark-mode-only)
+[![GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=moltenwolfcub&show_icons=true&ring_color=ff8b33&theme=vue#gh-light-mode-only)](https://github.com/moltenwolfcub#gh-light-mode-only)
 
 ## Release news:
 
